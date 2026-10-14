@@ -1,0 +1,8 @@
+[33mcommit 8db86d15a39dc5a0576c7ded0710b02d5a214bc4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AbdelAzeem Mohammed <ammmm9952@gmail.com>
+Date:   Wed Oct 14 17:25:09 2026 +0300
+
+     commit scaffold
+
+ lib/main.dart | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
