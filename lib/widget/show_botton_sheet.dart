@@ -11,7 +11,10 @@ class ShowBottonSheet extends StatelessWidget {
       child: Column(
         children: [
           const SizedBox(height: 32,),
-         CustomTextField(),
+         CustomTextField(hintText: 'title',),
+          const SizedBox(height: 16,),
+          CustomTextField(hintText: 'content',maxLines: 5,),
+          const SizedBox(height: 32,),
         ],
       ),
     );
